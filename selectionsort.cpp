@@ -1,6 +1,6 @@
 // Main pts to remember working of sort
-// sort smaller index first
-// swap only once after finding minimum index 
+// sort smaller el first
+// swap only once after finding minimum el 
 
 
 #include <iostream>
